@@ -1,0 +1,15 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "A youtube clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC"
+}
